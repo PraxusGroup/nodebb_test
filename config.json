@@ -1,0 +1,12 @@
+{
+    "url": "http://localhost:4567",
+    "secret": "2d51b706-60ce-457f-bf8a-eabd30d7f598",
+    "database": "mongo",
+    "mongo": {
+        "host": "ds047720.mongolab.com",
+        "port": "47720",
+        "username": "praxus",
+        "password": "Nodebb123/*",
+        "database": "nodebb"
+    }
+}
