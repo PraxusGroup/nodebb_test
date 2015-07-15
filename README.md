@@ -4,3 +4,4 @@
 * command: npm install
 * command: node app.js
 * use browser and go to: http://localhost:4567/
+* Login: Admin || admin123/*
